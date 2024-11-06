@@ -3,11 +3,9 @@
 
 - 🔭 Atualmente trabalho como Analista de Suporte na **L&S Automação Comercial**
 
-- 🌱 Atualmente estou me aperfeiçoando em **JavaScript, Angular & React**
+- 🌱 Atualmente estou me aperfeiçoando em **Java & ReactJs**
 
-- 👯 Estou em busca de oportunidades como **desenvolvedor front-end**
-
-- 👨‍💻 Todos meus projetos estão disponíveis [aqui mesmo!](aqui mesmo!)
+- 👯 Estou em busca de oportunidades como **desenvolvedor**
 
 - 📫 Me encontre via e-mail **yoloassis@gmail.com**
 
